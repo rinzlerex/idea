@@ -1,0 +1,14 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="7d1d6810-2bfd-4cb4-93bd-8f7c1b4c61cd" name="DATA_SERVER_SH" url="http://192.168.254.9">
+        <fileTransfer host="192.168.254.9" port="22" rootFolder="/home/caowei/" accessType="SFTP" password="dfc2dfd8df9bdf9adf9adf9d" username="caowei">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

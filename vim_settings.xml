@@ -1,0 +1,131 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="false" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/Devel/bin/tdf_recorder/analyse.py" timestamp="1446643978119">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="29" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="59" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1469256328984">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="E:/stock_event_analysis/models/barra/db_loader.py" timestamp="1469255111722" />
+      <file name="D:/Devel/bin/tdf_recorder/gen_image.py" timestamp="1446644900503">
+        <mark key="[" line="16" column="18" />
+        <mark key="]" line="7" column="20" />
+        <mark key="." line="7" column="20" />
+        <mark key="^" line="7" column="20" />
+      </file>
+      <file name="E:/quant/temp/test.py" timestamp="1469256753365">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="4" column="3" />
+        <mark key="^" line="4" column="3" />
+        <mark key="." line="4" column="3" />
+      </file>
+      <file name="E:/quant/backtest/future_basis_strategy.py" timestamp="1450751834208">
+        <mark key="'" line="97" column="4" />
+        <mark key="[" line="41" column="27" />
+        <mark key="]" line="39" column="60" />
+        <mark key="^" line="39" column="60" />
+        <mark key="." line="39" column="60" />
+      </file>
+      <file name="E:/quant/bopu_py_lib/bppl/cache.py" timestamp="1469256789387" />
+    </filemarks>
+    <jumps>
+      <jump line="4" column="0" filename="D:/Devel/bin/tdf_recorder/analyse.py" />
+      <jump line="86" column="41" filename="E:/quant/backtest/future_basis_strategy.py" />
+      <jump line="94" column="4" filename="E:/quant/backtest/future_basis_strategy.py" />
+      <jump line="95" column="4" filename="E:/quant/backtest/future_basis_strategy.py" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">dG9kYXkgPSBkYXRldGltZS5kYXRlLnRvZGF5KCkK</text>
+      </register>
+      <register name="-" type="4">
+        <text>G</text>
+      </register>
+      <register name="/" type="4">
+        <text>symbol</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">dG9kYXkgPSBkYXRldGltZS5kYXRlLnRvZGF5KCkK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="4">
+        <text>G</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IG1hdHBsb3RsaWIucHlwbG90IGFzIHBsdAo=</text>
+      </register>
+      <register name="6" type="4">
+        <text />
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">aW1wb3J0IG51bXB5IGFzIG5wCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>symbol</last-search>
+      <last-offset />
+      <last-pattern>symbol</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>symbol</entry>
+      </history-search>
+      <history-cmd>
+        <entry>we</entry>
+        <entry>E</entry>
+        <entry>w</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed BACK_SLASH</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

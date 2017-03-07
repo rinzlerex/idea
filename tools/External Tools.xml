@@ -1,0 +1,9 @@
+<toolSet name="External Tools">
+  <tool name="test" description="test_desc" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="python " />
+      <option name="PARAMETERS" value="setup.py sdist" />
+      <option name="WORKING_DIRECTORY" value="E:/quant/bopu_py_lib" />
+    </exec>
+  </tool>
+</toolSet>

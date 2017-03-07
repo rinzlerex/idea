@@ -1,0 +1,3 @@
+<templateSet group="Python">
+  <template name="fenc" value="# -*- encoding: utf-8 -*-" description="file encoding" toReformat="false" toShortenFQNames="true" />
+</templateSet>

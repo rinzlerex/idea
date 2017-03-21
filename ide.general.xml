@@ -10,5 +10,6 @@
     <entry key="ide.tooltip.initialDelay" value="566" />
     <entry key="debugger.watches.in.variables" value="false" />
     <entry key="ide.editor.tabs.open.at.the.end" value="true" />
+    <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
   </component>
 </application>

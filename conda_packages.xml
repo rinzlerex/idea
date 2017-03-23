@@ -131,7 +131,7 @@
         <entry key="cymem" value="1.31.2" />
         <entry key="cython" value="0.25.2" />
         <entry key="cytoolz" value="0.8.2" />
-        <entry key="dask" value="0.14.0" />
+        <entry key="dask" value="0.14.1" />
         <entry key="datashader" value="0.4.0" />
         <entry key="datashape" value="0.5.4" />
         <entry key="dateutil" value="2.4.1" />
@@ -142,7 +142,7 @@
         <entry key="decorator" value="4.0.11" />
         <entry key="dill" value="0.2.5" />
         <entry key="distribute" value="0.6.45" />
-        <entry key="distributed" value="1.16.0" />
+        <entry key="distributed" value="1.16.1" />
         <entry key="django" value="1.10.5" />
         <entry key="dnspython" value="1.14.0" />
         <entry key="docopt" value="0.6.2" />
@@ -291,6 +291,7 @@
         <entry key="libgd" value="2.1.1" />
         <entry key="libgdal" value="2.1.0" />
         <entry key="libgfortran" value="3.0.0" />
+        <entry key="libgpuarray" value="0.6.2" />
         <entry key="libiconv" value="1.14" />
         <entry key="libnetcdf" value="4.4.1" />
         <entry key="libnvvm" value="1.0" />
@@ -314,7 +315,7 @@
         <entry key="logilab-common" value="1.0.2" />
         <entry key="luigi" value="2.3.0" />
         <entry key="lxml" value="3.7.3" />
-        <entry key="lz4" value="0.8.2" />
+        <entry key="lz4" value="0.9.0" />
         <entry key="lzo" value="2.06" />
         <entry key="m4" value="1.4.17" />
         <entry key="make" value="3.82" />
@@ -473,8 +474,10 @@
         <entry key="pyface" value="5.1.0" />
         <entry key="pyflakes" value="1.5.0" />
         <entry key="pygments" value="2.2.0" />
+        <entry key="pygpu" value="0.6.2" />
         <entry key="pykerberos" value="1.1.10" />
         <entry key="pykit" value="0.2.0" />
+        <entry key="pylearn2" value="0.6.stable.201601.18.g517dc87" />
         <entry key="pylint" value="1.6.4" />
         <entry key="pymc" value="2.3.6" />
         <entry key="pymongo" value="3.3.0" />
@@ -509,7 +512,7 @@
         <entry key="pytest-pep8" value="1.0.6" />
         <entry key="pytest-runner" value="2.11.1" />
         <entry key="pytest-timeout" value="1.0.0" />
-        <entry key="python" value="3.6.0" />
+        <entry key="python" value="3.6.1" />
         <entry key="python-daemon" value="2.1.2" />
         <entry key="python-dateutil" value="2.6.0" />
         <entry key="python-gdbm" value="1.1" />
@@ -888,7 +891,7 @@
         <entry key="terminado" value="0.6" />
         <entry key="testpath" value="0.3" />
         <entry key="text-unidecode" value="1.0" />
-        <entry key="theano" value="0.8.2" />
+        <entry key="theano" value="0.9.0" />
         <entry key="thinc" value="5.0.8" />
         <entry key="thrift" value="0.9.3" />
         <entry key="thriftpy" value="0.3.8" />
@@ -2677,6 +2680,7 @@
               <option value="0.14.0" />
               <option value="0.11.1" />
               <option value="0.10.2" />
+              <option value="0.14.1" />
             </list>
           </value>
         </entry>
@@ -2809,6 +2813,7 @@
               <option value="1.15.2" />
               <option value="1.14.2" />
               <option value="1.12.0" />
+              <option value="1.16.1" />
             </list>
           </value>
         </entry>
@@ -4231,6 +4236,13 @@
             </list>
           </value>
         </entry>
+        <entry key="libgpuarray">
+          <value>
+            <list>
+              <option value="0.6.2" />
+            </list>
+          </value>
+        </entry>
         <entry key="libiconv">
           <value>
             <list>
@@ -4475,6 +4487,7 @@
             <list>
               <option value="0.7.0" />
               <option value="0.8.2" />
+              <option value="0.9.0" />
             </list>
           </value>
         </entry>
@@ -6175,6 +6188,13 @@
             </list>
           </value>
         </entry>
+        <entry key="pygpu">
+          <value>
+            <list>
+              <option value="0.6.2" />
+            </list>
+          </value>
+        </entry>
         <entry key="pykerberos">
           <value>
             <list>
@@ -6187,6 +6207,13 @@
             <list>
               <option value="0.2.0" />
               <option value="0.1.0" />
+            </list>
+          </value>
+        </entry>
+        <entry key="pylearn2">
+          <value>
+            <list>
+              <option value="0.6.stable.201601.18.g517dc87" />
             </list>
           </value>
         </entry>
@@ -6549,6 +6576,7 @@
               <option value="3.5.3" />
               <option value="1.0.1" />
               <option value="3.5.0rc4" />
+              <option value="3.6.1" />
             </list>
           </value>
         </entry>
@@ -10036,6 +10064,7 @@
           <value>
             <list>
               <option value="0.8.2" />
+              <option value="0.9.0" />
             </list>
           </value>
         </entry>
@@ -10768,6 +10797,6 @@
         <option value="https://repo.continuum.io/pkgs/pro/win-64/" />
       </set>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1490078976677" />
+    <option name="LAST_TIME_CHECKED" value="1490239977823" />
   </component>
 </application>

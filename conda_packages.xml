@@ -411,7 +411,7 @@
         <entry key="pandocfilters" value="1.4.1" />
         <entry key="pango" value="1.40.3" />
         <entry key="param" value="1.5.0" />
-        <entry key="paramiko" value="2.0.2" />
+        <entry key="paramiko" value="2.1.2" />
         <entry key="parsel" value="1.1.0" />
         <entry key="partd" value="0.3.7" />
         <entry key="passlib" value="1.7.1" />
@@ -458,7 +458,7 @@
         <entry key="psutil" value="5.2.0" />
         <entry key="psycopg2" value="2.7.1" />
         <entry key="ptyprocess" value="0.5.1" />
-        <entry key="py" value="1.4.32" />
+        <entry key="py" value="1.4.33" />
         <entry key="pyamg" value="2.2.1" />
         <entry key="pyasn1" value="0.2.3" />
         <entry key="pyasn1-modules" value="0.0.8" />
@@ -943,6 +943,7 @@
         <entry key="wrapt" value="1.10.8" />
         <entry key="wtforms" value="2.1" />
         <entry key="wxpython" value="3.0" />
+        <entry key="x507" value="1.4.6" />
         <entry key="xarray" value="0.9.1" />
         <entry key="xerces-c" value="3.1.4" />
         <entry key="xlrd" value="1.0.0" />
@@ -5543,6 +5544,7 @@
               <option value="1.15.3" />
               <option value="1.16.0" />
               <option value="2.0.2" />
+              <option value="2.1.2" />
             </list>
           </value>
         </entry>
@@ -6027,6 +6029,7 @@
               <option value="1.4.14" />
               <option value="1.4.31" />
               <option value="1.4.32" />
+              <option value="1.4.33" />
             </list>
           </value>
         </entry>
@@ -10553,6 +10556,13 @@
             </list>
           </value>
         </entry>
+        <entry key="x507">
+          <value>
+            <list>
+              <option value="1.4.6" />
+            </list>
+          </value>
+        </entry>
         <entry key="xarray">
           <value>
             <list>
@@ -10797,6 +10807,6 @@
         <option value="https://repo.continuum.io/pkgs/pro/win-64/" />
       </set>
     </option>
-    <option name="LAST_TIME_CHECKED" value="1490239977823" />
+    <option name="LAST_TIME_CHECKED" value="1490333630261" />
   </component>
 </application>

@@ -1,0 +1,242 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Python 2.7 - anaconda" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="D:\Anaconda2\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Program Files (x86)/MSCI Barra/Barra Optimizer/bin" type="simple" />
+            <root url="file://D:/Program Files (x86)/MSCI Barra/Barra Optimizer/bin/intel64" type="simple" />
+            <root url="file://D:/Anaconda2/DLLs" type="simple" />
+            <root url="file://D:/Anaconda2/Lib" type="simple" />
+            <root url="file://D:/Anaconda2/Lib/lib-tk" type="simple" />
+            <root url="file://D:/Anaconda2" type="simple" />
+            <root url="file://D:/Anaconda2/Lib/site-packages" type="simple" />
+            <root url="file://D:/Anaconda2/Lib/site-packages/Sphinx-1.3.1-py2.7.egg" type="simple" />
+            <root url="file://D:/Program Files/Wind/Wind.NET.Client/WindNET/x64" type="simple" />
+            <root url="jar://D:/Anaconda2/Lib/site-packages/pytrth-1.1-py2.7.egg!/" type="simple" />
+            <root url="jar://D:/Anaconda2/Lib/site-packages/suds-0.4-py2.7.egg!/" type="simple" />
+            <root url="file://E:/spark-2.2.0-bin-hadoop2.7/spark-2.2.0-bin-hadoop2.7/python" type="simple" />
+            <root url="file://E:/quant/bopu_py_lib" type="simple" />
+            <root url="file://E:/quant/FormulaAlpha" type="simple" />
+            <root url="file://E:/quant/PositionLocker" type="simple" />
+            <root url="file://D:/Anaconda2/Lib/site-packages/win32" type="simple" />
+            <root url="file://D:/Anaconda2/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://D:/Anaconda2/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/2129268673" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.15" />
+      <homePath value="C:\Python27\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Program Files (x86)/MSCI Barra/Barra Optimizer/bin" type="simple" />
+            <root url="file://D:/Program Files (x86)/MSCI Barra/Barra Optimizer/bin/intel64" type="simple" />
+            <root url="file://C:/Python27/DLLs" type="simple" />
+            <root url="file://C:/Python27/Lib" type="simple" />
+            <root url="file://C:/Python27/Lib/lib-tk" type="simple" />
+            <root url="file://C:/Python27" type="simple" />
+            <root url="file://C:/Python27/Lib/site-packages" type="simple" />
+            <root url="file://D:/Program Files/Wind/Wind.NET.Client/WindNET/x64" type="simple" />
+            <root url="file://E:/quant/bopu_py_lib" type="simple" />
+            <root url="file://C:/Python27/Lib/site-packages/win32" type="simple" />
+            <root url="file://C:/Python27/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://C:/Python27/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-762174762" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.7" />
+      <type value="Python SDK" />
+      <version value="Python 3.7.0" />
+      <homePath value="C:\Python37\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Program Files (x86)/MSCI Barra/Barra Optimizer/bin" type="simple" />
+            <root url="file://D:/Program Files (x86)/MSCI Barra/Barra Optimizer/bin/intel64" type="simple" />
+            <root url="file://C:/Python37/DLLs" type="simple" />
+            <root url="file://C:/Python37/Lib" type="simple" />
+            <root url="file://C:/Python37" type="simple" />
+            <root url="file://C:/Python37/Lib/site-packages" type="simple" />
+            <root url="file://D:/Program Files/Wind/Wind.NET.Client/WindNET/x64" type="simple" />
+            <root url="file://E:/quant/bopu_py_lib" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-1055577769" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6" />
+      <type value="Python SDK" />
+      <homePath value="C:\Python36\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Program Files (x86)/MSCI Barra/Barra Optimizer/bin" type="simple" />
+            <root url="file://D:/Program Files (x86)/MSCI Barra/Barra Optimizer/bin/intel64" type="simple" />
+            <root url="file://C:/Python36/DLLs" type="simple" />
+            <root url="file://C:/Python36/Lib" type="simple" />
+            <root url="file://C:/Python36" type="simple" />
+            <root url="file://$USER_HOME$/AppData/Roaming/Python/Python36/site-packages" type="simple" />
+            <root url="file://C:/Python36/Lib/site-packages" type="simple" />
+            <root url="file://E:/quant/bopu_py_lib" type="simple" />
+            <root url="file://C:/Python36/Lib/site-packages/win32" type="simple" />
+            <root url="file://C:/Python36/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://C:/Python36/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-1184660488" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (BopuPyEnv)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.5" />
+      <homePath value="E:\BopuPyEnv\PY3\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Program Files (x86)/MSCI Barra/Barra Optimizer/bin" type="simple" />
+            <root url="file://D:/Program Files (x86)/MSCI Barra/Barra Optimizer/bin/intel64" type="simple" />
+            <root url="file://E:/BopuPyEnv/PY3/Lib" type="simple" />
+            <root url="file://E:/BopuPyEnv/PY3/Scripts" type="simple" />
+            <root url="file://E:/Anaconda3/Lib" type="simple" />
+            <root url="file://E:/Anaconda3/DLLs" type="simple" />
+            <root url="file://E:/BopuPyEnv/PY3" type="simple" />
+            <root url="file://E:/BopuPyEnv/PY3/Lib/site-packages" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-139845821" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3.4" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional ASSOCIATED_PROJECT_PATH="E:/BopuPyEnv" />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7 (2)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="E:\bootstrap_python\env\2\Scripts\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://E:/bootstrap_python/env/2/Lib" type="simple" />
+            <root url="file://E:/bootstrap_python/env/2/Scripts" type="simple" />
+            <root url="file://E:/bootstrap_python/resources/2/Lib" type="simple" />
+            <root url="file://E:/bootstrap_python/resources/2/DLLs" type="simple" />
+            <root url="file://E:/bootstrap_python/resources/2/Lib/lib-tk" type="simple" />
+            <root url="file://E:/bootstrap_python/env/2" type="simple" />
+            <root url="file://E:/bootstrap_python/env/2/Lib/site-packages" type="simple" />
+            <root url="file://E:/quant/bopu_py_lib" type="simple" />
+            <root url="file://E:/bootstrap_python/env/2/Lib/site-packages/win32" type="simple" />
+            <root url="file://E:/bootstrap_python/env/2/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://E:/bootstrap_python/env/2/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.2/system/python_stubs/-2123976338" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+    <jdk version="2">
+      <name value="Python 3.6 (1)" />
+      <type value="Python SDK" />
+      <version value="Python 3.6.1" />
+      <homePath value="D:\Anaconda3\python.exe" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root url="file://D:/Program Files (x86)/MSCI Barra/Barra Optimizer/bin" type="simple" />
+            <root url="file://D:/Program Files (x86)/MSCI Barra/Barra Optimizer/bin/intel64" type="simple" />
+            <root url="file://D:/Anaconda3/DLLs" type="simple" />
+            <root url="file://D:/Anaconda3/Lib" type="simple" />
+            <root url="file://D:/Anaconda3" type="simple" />
+            <root url="file://D:/Anaconda3/Lib/site-packages" type="simple" />
+            <root url="file://D:/Anaconda3/Lib/site-packages/Sphinx-1.5.6-py3.6.egg" type="simple" />
+            <root url="file://D:/Program Files/Wind/Wind.NET.Client/WindNET/x64" type="simple" />
+            <root url="jar://D:/Anaconda3/Lib/site-packages/enum34-1.1.6-py3.6.egg!/" type="simple" />
+            <root url="file://E:/quant/AlphaResearchFrame" type="simple" />
+            <root url="file://E:/quant/bopu_py_lib" type="simple" />
+            <root url="file://E:/quant/FormulaAlpha" type="simple" />
+            <root url="file://D:/Anaconda3/Lib/site-packages/win32" type="simple" />
+            <root url="file://D:/Anaconda3/Lib/site-packages/win32/lib" type="simple" />
+            <root url="file://D:/Anaconda3/Lib/site-packages/pythonwin" type="simple" />
+            <root url="file://$USER_HOME$/.PyCharmCE2018.3/system/python_stubs/-2036615904" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3" type="simple" />
+            <root url="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/2and3" type="simple" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>

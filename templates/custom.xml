@@ -1,0 +1,7 @@
+<templateSet group="custom">
+  <template name="fenc" value="# -*- encoding: utf-8 -*-&#10;" description="encoding of Python source code file" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>
